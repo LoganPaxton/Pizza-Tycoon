@@ -4,7 +4,7 @@ Made on Scratch.mit.edu ported to Github via leopardjs.com
 
 Buy pizza until you can't no more. Pizza cost $3, and sells for $3.5. You can buy more ingredients to earn more money per pizza.
 
-WARNING WORLD RECORD WILL NOT WORK YET!
+# WARNING WORLD RECORD WILL NOT WORK YET!
 
 Update Log:
 1.0 - Released!
